@@ -1,0 +1,37 @@
+################################################################################
+# Evaluator
+#	version 1.0
+#	
+# Project start: Sat Oct 29 2011	
+# 
+# Description: Program which evaluates a solution to a given programming problem
+# 	against given test cases. It as well tests the time and memory required for
+#	a solution to correctly solve the given problem.
+#
+# Features:
+#	- Compiles source file
+#	- Runs the program on given test cases
+#	- Compares output with the correct one, or runs a special comparator for a
+#	  specific task
+#	- Tests time and memory required against the given limits
+#	- Grades the solution accordingly to its results
+#
+################################################################################
+
+
+
+################################################################################
+#	Usage
+################################################################################
+
+Program call:
+
+evaluator [OPTIONS]
+	
+Options list:
+	-i		interactive mode
+	-
+
+################################################################################
+#	Settings file
+################################################################################
